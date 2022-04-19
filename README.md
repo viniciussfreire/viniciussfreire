@@ -8,7 +8,7 @@ I’m currently learning about:
   - Clean architecture apply to Node.js apps.
 
 You can follow my learning through my social networks:
-  - Instagram.
-  - Dev.to.
+  - [Instagram](https://www.instagram.com/oviniciusfreire/).
+  - [Dev.to](https://dev.to/viniciussfreire).
 
 [![Vinicius Freire's github stats](https://github-readme-stats.vercel.app/api?username=viniciussfreire&theme=dark&show_icons=true&count_private=true)](https://github.com/viniciussfreire)
