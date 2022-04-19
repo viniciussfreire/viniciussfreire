@@ -1,16 +1,14 @@
-### Hi there 👋
+### Yo, I’m Vinicius 👋
 
-<!--
-**viniciussfreire/viniciussfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy listening to good songs 🎶 and having a cup of coffee ☕ while writing elegant, well-structured codes ⌨️.
 
-Here are some ideas to get you started:
+I’m currently learning about: 
+  - Web3 apps.
+  - Ethereum and Solana networks.
+  - Clean architecture apply to Node.js apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can follow my learning through my social networks:
+  - Instagram.
+  - Dev.to.
+
+[![Vinicius Freire's github stats](https://github-readme-stats.vercel.app/api?username=viniciussfreire&theme=dark&show_icons=true&count_private=true)](https://github.com/viniciussfreire)
